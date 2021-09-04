@@ -1,7 +1,4 @@
-#单页改装版
-#2021年8月25日--遇见新生，此次主要是为了爬取新生信息
-#同时构建学号索引自动隐式爬取的机制，单页面已经成效，但是学号爬取还需要解决
-#各链接都已测试完毕
+
 from lxml import etree
 import requests
 from openpyxl import load_workbook
